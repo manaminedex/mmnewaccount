@@ -1,0 +1,2 @@
+# mmnewaccount
+EOS account creator
